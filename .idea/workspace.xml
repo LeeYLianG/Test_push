@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d8ff1f6-7a4c-4c78-8b56-5e2aac8bf8e5" name="Changes" comment="update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="abraham" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="lyl" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.8.8\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.8" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2PQ0ZluJh6JNQ3ElpFDBboeqXPI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBootProject/SpringBootMybatis" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.17152661" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\JavaStudy\project\Csc-api\common" />
+      <recent name="H:\JavaStudy\project\Csc-api\main\src\main\java\com\xpucsc\main" />
+      <recent name="H:\JavaStudy\project\Csc-api\main\src\main\java\com\xpucsc\main\shiro" />
+      <recent name="H:\JavaStudy\project\Csc-api\main\src\main\resources" />
+      <recent name="H:\JavaStudy\project\Csc-api\common\service-base\src\main\java\com\xpucsc\servicebase" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xpucsc.main.shiro.filter" />
+      <recent name="com.xpucsc.main.shiro.authenticationToken" />
+      <recent name="com.xpucsc.main.annotation" />
+      <recent name="com.xpucsc.main.filter" />
+      <recent name="com.xpucsc.main.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="MainApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xpucsc.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xpucsc.main" />
+      <option name="MAIN_CLASS_NAME" value="com.xpucsc.main.MainApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xpucsc.main.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d8ff1f6-7a4c-4c78-8b56-5e2aac8bf8e5" name="Changes" comment="" />
+      <created>1683374057858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683374057858</updated>
+      <workItem from="1683374059126" duration="2111000" />
+      <workItem from="1683376221449" duration="100000" />
+      <workItem from="1683376328812" duration="38000" />
+      <workItem from="1683376381862" duration="10958000" />
+      <workItem from="1683450661248" duration="23527000" />
+      <workItem from="1683549349203" duration="3483000" />
+      <workItem from="1683600277123" duration="192000" />
+      <workItem from="1683600600451" duration="314000" />
+      <workItem from="1683613687777" duration="25000" />
+      <workItem from="1683616350096" duration="2497000" />
+      <workItem from="1683629308502" duration="2418000" />
+      <workItem from="1683634505632" duration="28000" />
+      <workItem from="1683675908715" duration="488000" />
+      <workItem from="1683723999502" duration="2709000" />
+      <workItem from="1683761112855" duration="4500000" />
+      <workItem from="1683873105867" duration="17505000" />
+      <workItem from="1683900117199" duration="1031000" />
+      <workItem from="1683954706397" duration="8407000" />
+      <workItem from="1684123730947" duration="4146000" />
+      <workItem from="1684137810431" duration="5156000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化项目">
+      <created>1683377832219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683377832219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="创建项目基础模块">
+      <created>1683380230396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683380230396</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初始化一个controller">
+      <created>1683383471956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683383471956</updated>
+    </task>
+    <task id="LOCAL-00004" summary="shiro初始化 还没有完成">
+      <created>1683468933258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683468933258</updated>
+    </task>
+    <task id="LOCAL-00005" summary="初始化以及测试部分接口 shiro配置还没有写完全 teacher的shiro realm还没有写 加一个类根据用户权限走对应的realm就行">
+      <created>1683546090436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683546090436</updated>
+    </task>
+    <task id="LOCAL-00006" summary="初始化MyModularRealmAuthenticator 根据类型加载对应的realm类配置">
+      <created>1683546630393</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683546630393</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sql文件丢进来">
+      <created>1683546772199</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683546772199</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="abraham" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/main" />
+    </ignored-roots>
+    <MESSAGE value="初始化项目" />
+    <MESSAGE value="创建项目基础模块" />
+    <MESSAGE value="初始化一个controller" />
+    <MESSAGE value="shiro初始化 还没有完成" />
+    <MESSAGE value="初始化以及测试部分接口 shiro配置还没有写完全 teacher的shiro realm还没有写 加一个类根据用户权限走对应的realm就行" />
+    <MESSAGE value="初始化MyModularRealmAuthenticator 根据类型加载对应的realm类配置" />
+    <MESSAGE value="sql文件丢进来" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

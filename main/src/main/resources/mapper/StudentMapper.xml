@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xpucsc.main.mapper.StudentMapper">
+
+    <resultMap id="BaseResultMap" type="com.xpucsc.main.entity.Student">
+            <id property="id" column="id" jdbcType="BIGINT"/>
+            <result property="stuId" column="stu_id" jdbcType="VARCHAR"/>
+            <result property="password" column="password" jdbcType="VARCHAR"/>
+            <result property="grade" column="grade" jdbcType="CHAR"/>
+            <result property="major" column="major" jdbcType="VARCHAR"/>
+            <result property="clazzes" column="clazzes" jdbcType="VARCHAR"/>
+            <result property="name" column="name" jdbcType="VARCHAR"/>
+            <result property="sex" column="sex" jdbcType="TINYINT"/>
+            <result property="birthdate" column="birthdate" jdbcType="VARCHAR"/>
+            <result property="identity" column="identity" jdbcType="VARCHAR"/>
+            <result property="phoneSelf" column="phone_self" jdbcType="VARCHAR"/>
+            <result property="phoneParent" column="phone_parent" jdbcType="VARCHAR"/>
+            <result property="qq" column="qq" jdbcType="VARCHAR"/>
+            <result property="isPassport" column="is_passport" jdbcType="TINYINT"/>
+            <result property="politics" column="politics" jdbcType="VARCHAR"/>
+            <result property="nation" column="nation" jdbcType="VARCHAR"/>
+            <result property="religiousBelief" column="religious_belief" jdbcType="VARCHAR"/>
+            <result property="isSoldier" column="is_soldier" jdbcType="TINYINT"/>
+            <result property="nativePlace" column="native_place" jdbcType="VARCHAR"/>
+            <result property="originPlace" column="origin_place" jdbcType="VARCHAR"/>
+            <result property="address" column="address" jdbcType="VARCHAR"/>
+            <result property="dormitory" column="dormitory" jdbcType="VARCHAR"/>
+            <result property="campus" column="campus" jdbcType="VARCHAR"/>
+            <result property="bankcard" column="bankcard" jdbcType="VARCHAR"/>
+            <result property="bank" column="bank" jdbcType="VARCHAR"/>
+            <result property="bankRemarks" column="bank_remarks" jdbcType="VARCHAR"/>
+            <result property="createTime" column="create_time" jdbcType="TIMESTAMP"/>
+            <result property="updateTime" column="update_time" jdbcType="TIMESTAMP"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,stu_id,password,
+        grade,major,clazzes,
+        name,sex,birthdate,
+        identity,phone_self,phone_parent,
+        qq,is_passport,politics,
+        nation,religious_belief,is_soldier,
+        native_place,origin_place,address,
+        dormitory,campus,bankcard,
+        bank,bank_remarks,create_time,
+        update_time
+    </sql>
+
+</mapper>
